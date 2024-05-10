@@ -1,0 +1,21 @@
+{"TV Series": [
+    {
+        "title": "Desperate Housewives",
+        "number-of-seasons": "8",
+        "release": "2004-2012",
+        "where to watch": "Disney+"
+    },
+    {
+        "title": "Once Upon a Time",
+        "number-of-seasons": "7",
+        "release": "2011-2018",
+        "where to watch": "Disney+"
+    },
+    {
+        "title": "Manifest",
+        "number-of-seasons": "4",
+        "release": "2018-2021",
+        "where to watch": "Netflix"
+    }
+]
+}
